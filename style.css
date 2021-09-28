@@ -1,0 +1,91 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+font-family:'Montserrat-black', sans-serif;
+}
+
+.big-heading{
+  font-family: 'ZCOOL KuaiLe', cursive;
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.section-heading{
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+
+.container-top{
+  background-color: #31326F;
+}
+/* section */
+.colored-section{
+  background-color: #FFC93C;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+
+/* container */
+.container-fluid {
+  padding:7% 15%;
+}
+
+.navbar-brand{
+  color:
+  font-family: 'Merriweather', serif;
+  font-size:1.5rem;
+  font-weight:bold;
+}
+.title-image {
+  width: 95%;
+  border-radius: 60%;
+  padding-left: 10%;
+}
+
+.icon{
+  color: #FED049;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color:#FFB037;
+}
+.testimonial-image{
+  width:50%;
+  border-radius: 50%;
+  margin:30px;
+}
+
+.testimonial-image-2{
+  width:30%;
+  border-radius: 80%;
+  margin:20px;
+}
+
+#video{
+  padding-bottom: 3%;
+}
+.vid{
+  border: 2px solid black;
+}
+
+.social-icon{
+  margin: 10px;
+  color: black;
+  padding-bottom: 10px;
+}
+.icon:hover{
+  color:#9DDFD3;
+}
